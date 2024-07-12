@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MHC2010
-- 👀 I’m interested in ... script making i am trying to find a executor for games like roblox 
+- 👋 Hi, I’m @MHC201
+- 👀 I’m interested in ... script making  
 - 🌱 I’m currently learning ... scripting
 - 💞️ I’m looking to collaborate on ... hacking/coding 
-- 📫 How to reach me ... instagram:manuel.mhc
+- 📫 How to reach me ... instagram:mhc_201
 
 <!---
 MHC2010/MHC2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
